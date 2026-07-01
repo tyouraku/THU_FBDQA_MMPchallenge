@@ -1,2 +1,2 @@
 # THU_FBDQA_MMPchallenge
-college project of FBDQA course in THU
+Quantitative model for the Financial Big Data and Quantitative Analytics (FBDQA) 2026 Spring course final project in the MMP Challenge at Tsinghua University.
